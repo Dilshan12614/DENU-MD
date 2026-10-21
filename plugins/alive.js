@@ -35,7 +35,7 @@ let aliveMessage = `🟢 *ALIVE NOW* 🟢
 await conn.sendMessage(
     from,
     {
-        image: { url: `https://i.ibb.co/qPDNmSY/5cdec1f68264.jpg` },
+        image: { url: `https://n.uguu.se/dQyDlWXO.jpeg` },
         caption: aliveMessage,
         contextInfo: {
             mentionedJid: [m.sender],
