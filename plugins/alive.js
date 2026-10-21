@@ -1,4 +1,3 @@
-const { sendPluginButtons } = require('../lib/buttons');
 const config = require('../config')
 const { cmd, commands } = require('../command')
 const os = require("os")
